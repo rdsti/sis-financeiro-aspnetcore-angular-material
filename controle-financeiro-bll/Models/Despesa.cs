@@ -23,7 +23,7 @@ namespace controle_financeiro_bll.Models
         public int MesId { get; set; }
         public Mes Mes { get; set; }
 
-        public int AnoId { get; set; }
+        public int Ano { get; set; }
 
         public string UsuarioId { get; set; }
         public Usuario Usuario { get; set; }

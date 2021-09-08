@@ -12,6 +12,8 @@ namespace controle_financeiro_bll.Models
 
         public string Bandeira { get; set; }
 
+        public string Numero { get; set; }
+
         public double Limite { get; set; }
 
         public string UsuarioId { get; set; }
