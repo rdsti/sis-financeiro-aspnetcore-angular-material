@@ -7,7 +7,7 @@ namespace controle_financeiro_bll.Models
 {
     public class Usuario : IdentityRole<string>
     {
-        public string Cpf { get; set; }
+        public string CPF { get; set; }
 
         public string Profissao { get; set; }
 

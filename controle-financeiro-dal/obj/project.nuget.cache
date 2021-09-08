@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "oqbh4He9Duz5mFKr0DAc7zv8IAryNVwm7I32f6djWuBKPim0+x2kqQq3Ur0mkHVzepTeoJy1v1D05PsdBzACBA==",
+  "dgSpecHash": "Vebr/8PZsVbcE6mOS+0/chd3Xmd+0ctvT5jsKdvFSIUT+i8JWcDPkY3istbngTYGRDc/497n9zrzxhFGa3CG2Q==",
   "success": true,
   "projectFilePath": "C:\\Users\\rodrigo.siqueira\\Documents\\workspace-aspnwet\\ControleFinanceiro\\controle-financeiro-dal\\controle-financeiro-dal.csproj",
   "expectedPackageFiles": [
@@ -8,8 +8,8 @@
     "C:\\Users\\rodrigo.siqueira\\.nuget\\packages\\microsoft.aspnetcore.authentication.abstractions\\2.2.0\\microsoft.aspnetcore.authentication.abstractions.2.2.0.nupkg.sha512",
     "C:\\Users\\rodrigo.siqueira\\.nuget\\packages\\microsoft.aspnetcore.authentication.cookies\\2.2.0\\microsoft.aspnetcore.authentication.cookies.2.2.0.nupkg.sha512",
     "C:\\Users\\rodrigo.siqueira\\.nuget\\packages\\microsoft.aspnetcore.authentication.core\\2.2.0\\microsoft.aspnetcore.authentication.core.2.2.0.nupkg.sha512",
-    "C:\\Users\\rodrigo.siqueira\\.nuget\\packages\\microsoft.aspnetcore.cryptography.internal\\2.2.0\\microsoft.aspnetcore.cryptography.internal.2.2.0.nupkg.sha512",
-    "C:\\Users\\rodrigo.siqueira\\.nuget\\packages\\microsoft.aspnetcore.cryptography.keyderivation\\2.2.0\\microsoft.aspnetcore.cryptography.keyderivation.2.2.0.nupkg.sha512",
+    "C:\\Users\\rodrigo.siqueira\\.nuget\\packages\\microsoft.aspnetcore.cryptography.internal\\3.1.7\\microsoft.aspnetcore.cryptography.internal.3.1.7.nupkg.sha512",
+    "C:\\Users\\rodrigo.siqueira\\.nuget\\packages\\microsoft.aspnetcore.cryptography.keyderivation\\3.1.7\\microsoft.aspnetcore.cryptography.keyderivation.3.1.7.nupkg.sha512",
     "C:\\Users\\rodrigo.siqueira\\.nuget\\packages\\microsoft.aspnetcore.dataprotection\\2.2.0\\microsoft.aspnetcore.dataprotection.2.2.0.nupkg.sha512",
     "C:\\Users\\rodrigo.siqueira\\.nuget\\packages\\microsoft.aspnetcore.dataprotection.abstractions\\2.2.0\\microsoft.aspnetcore.dataprotection.abstractions.2.2.0.nupkg.sha512",
     "C:\\Users\\rodrigo.siqueira\\.nuget\\packages\\microsoft.aspnetcore.hosting.abstractions\\2.2.0\\microsoft.aspnetcore.hosting.abstractions.2.2.0.nupkg.sha512",
@@ -40,7 +40,8 @@
     "C:\\Users\\rodrigo.siqueira\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\3.1.7\\microsoft.extensions.dependencyinjection.abstractions.3.1.7.nupkg.sha512",
     "C:\\Users\\rodrigo.siqueira\\.nuget\\packages\\microsoft.extensions.fileproviders.abstractions\\2.2.0\\microsoft.extensions.fileproviders.abstractions.2.2.0.nupkg.sha512",
     "C:\\Users\\rodrigo.siqueira\\.nuget\\packages\\microsoft.extensions.hosting.abstractions\\2.2.0\\microsoft.extensions.hosting.abstractions.2.2.0.nupkg.sha512",
-    "C:\\Users\\rodrigo.siqueira\\.nuget\\packages\\microsoft.extensions.identity.core\\2.2.0\\microsoft.extensions.identity.core.2.2.0.nupkg.sha512",
+    "C:\\Users\\rodrigo.siqueira\\.nuget\\packages\\microsoft.extensions.identity.core\\3.1.7\\microsoft.extensions.identity.core.3.1.7.nupkg.sha512",
+    "C:\\Users\\rodrigo.siqueira\\.nuget\\packages\\microsoft.extensions.identity.stores\\3.1.7\\microsoft.extensions.identity.stores.3.1.7.nupkg.sha512",
     "C:\\Users\\rodrigo.siqueira\\.nuget\\packages\\microsoft.extensions.logging\\3.1.7\\microsoft.extensions.logging.3.1.7.nupkg.sha512",
     "C:\\Users\\rodrigo.siqueira\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\3.1.7\\microsoft.extensions.logging.abstractions.3.1.7.nupkg.sha512",
     "C:\\Users\\rodrigo.siqueira\\.nuget\\packages\\microsoft.extensions.objectpool\\2.2.0\\microsoft.extensions.objectpool.2.2.0.nupkg.sha512",
