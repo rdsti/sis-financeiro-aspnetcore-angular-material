@@ -5,8 +5,4 @@
     <RootNamespace>controle_financeiro_bll</RootNamespace>
   </PropertyGroup>
 
-  <ItemGroup>
-    <Folder Include="Models\" />
-  </ItemGroup>
-
 </Project>

@@ -14,4 +14,9 @@
     <Folder Include="Controller\" />
   </ItemGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\..\controle-financeiro-bll\controle-financeiro-bll.csproj" />
+    <ProjectReference Include="..\..\controle-financeiro-dal\controle-financeiro-dal.csproj" />
+  </ItemGroup>
+
 </Project>

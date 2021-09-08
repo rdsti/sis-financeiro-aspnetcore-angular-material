@@ -5,4 +5,14 @@
     <RootNamespace>controle_financeiro_dal</RootNamespace>
   </PropertyGroup>
 
+  <ItemGroup>
+    <Folder Include="Interfaces\" />
+    <Folder Include="Mapeamentos\" />
+    <Folder Include="Repositorios\" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\controle-financeiro-bll\controle-financeiro-bll.csproj" />
+  </ItemGroup>
+
 </Project>
