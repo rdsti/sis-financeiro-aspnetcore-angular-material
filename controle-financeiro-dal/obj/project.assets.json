@@ -1,0 +1,90 @@
+{
+  "version": 3,
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "controle-financeiro-bll/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v3.1",
+        "compile": {
+          "bin/placeholder/controle-financeiro-bll.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/controle-financeiro-bll.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "controle-financeiro-bll/1.0.0": {
+      "type": "project",
+      "path": "../controle-financeiro-bll/controle-financeiro-bll.csproj",
+      "msbuildProject": "../controle-financeiro-bll/controle-financeiro-bll.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    ".NETCoreApp,Version=v3.1": [
+      "controle-financeiro-bll >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\rodrigo.siqueira\\.nuget\\packages\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\Users\\rodrigo.siqueira\\Documents\\workspace-aspnwet\\ControleFinanceiro\\controle-financeiro-dal\\controle-financeiro-dal.csproj",
+      "projectName": "controle-financeiro-dal",
+      "projectPath": "C:\\Users\\rodrigo.siqueira\\Documents\\workspace-aspnwet\\ControleFinanceiro\\controle-financeiro-dal\\controle-financeiro-dal.csproj",
+      "packagesPath": "C:\\Users\\rodrigo.siqueira\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\rodrigo.siqueira\\Documents\\workspace-aspnwet\\ControleFinanceiro\\controle-financeiro-dal\\obj\\",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "C:\\Users\\rodrigo.siqueira\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "netcoreapp3.1"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "projectReferences": {
+            "C:\\Users\\rodrigo.siqueira\\Documents\\workspace-aspnwet\\ControleFinanceiro\\controle-financeiro-bll\\controle-financeiro-bll.csproj": {
+              "projectPath": "C:\\Users\\rodrigo.siqueira\\Documents\\workspace-aspnwet\\ControleFinanceiro\\controle-financeiro-bll\\controle-financeiro-bll.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "netcoreapp3.1": {
+        "targetAlias": "netcoreapp3.1",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.400\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

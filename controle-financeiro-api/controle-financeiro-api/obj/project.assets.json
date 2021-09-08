@@ -287,6 +287,29 @@
         "runtime": {
           "lib/netstandard2.0/Newtonsoft.Json.Bson.dll": {}
         }
+      },
+      "controle-financeiro-bll/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v3.1",
+        "compile": {
+          "bin/placeholder/controle-financeiro-bll.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/controle-financeiro-bll.dll": {}
+        }
+      },
+      "controle-financeiro-dal/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v3.1",
+        "dependencies": {
+          "controle-financeiro-bll": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/controle-financeiro-dal.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/controle-financeiro-dal.dll": {}
+        }
       }
     }
   },
@@ -720,12 +743,24 @@
         "newtonsoft.json.bson.1.0.2.nupkg.sha512",
         "newtonsoft.json.bson.nuspec"
       ]
+    },
+    "controle-financeiro-bll/1.0.0": {
+      "type": "project",
+      "path": "../../controle-financeiro-bll/controle-financeiro-bll.csproj",
+      "msbuildProject": "../../controle-financeiro-bll/controle-financeiro-bll.csproj"
+    },
+    "controle-financeiro-dal/1.0.0": {
+      "type": "project",
+      "path": "../../controle-financeiro-dal/controle-financeiro-dal.csproj",
+      "msbuildProject": "../../controle-financeiro-dal/controle-financeiro-dal.csproj"
     }
   },
   "projectFileDependencyGroups": {
     ".NETCoreApp,Version=v3.1": [
       "Microsoft.AspNetCore.Mvc.NewtonsoftJson >= 3.1.7",
-      "Microsoft.AspNetCore.SpaServices.Extensions >= 3.1.7"
+      "Microsoft.AspNetCore.SpaServices.Extensions >= 3.1.7",
+      "controle-financeiro-bll >= 1.0.0",
+      "controle-financeiro-dal >= 1.0.0"
     ]
   },
   "packageFolders": {
@@ -754,7 +789,14 @@
       "frameworks": {
         "netcoreapp3.1": {
           "targetAlias": "netcoreapp3.1",
-          "projectReferences": {}
+          "projectReferences": {
+            "C:\\Users\\rodrigo.siqueira\\Documents\\workspace-aspnwet\\ControleFinanceiro\\controle-financeiro-bll\\controle-financeiro-bll.csproj": {
+              "projectPath": "C:\\Users\\rodrigo.siqueira\\Documents\\workspace-aspnwet\\ControleFinanceiro\\controle-financeiro-bll\\controle-financeiro-bll.csproj"
+            },
+            "C:\\Users\\rodrigo.siqueira\\Documents\\workspace-aspnwet\\ControleFinanceiro\\controle-financeiro-dal\\controle-financeiro-dal.csproj": {
+              "projectPath": "C:\\Users\\rodrigo.siqueira\\Documents\\workspace-aspnwet\\ControleFinanceiro\\controle-financeiro-dal\\controle-financeiro-dal.csproj"
+            }
+          }
         }
       },
       "warningProperties": {
