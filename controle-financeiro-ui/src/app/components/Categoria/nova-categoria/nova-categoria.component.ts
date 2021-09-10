@@ -16,15 +16,18 @@ export class NovaCategoriaComponent implements OnInit {
   constructor(private tiposService : TiposService) { }
 
   ngOnInit(): void {
+    
     this.tiposService.PegarTodos().subscribe(resultado => {
       this.tipos = resultado;
-    })
+      console.log(resultado);
+    });
 
     this.formulario = new FormGroup({
       nome: new FormControl(null),
       icone: new FormControl(null),
       tipoId: new FormControl(null),
-    })
+    });
+
   }
 
   get propriedade () {
