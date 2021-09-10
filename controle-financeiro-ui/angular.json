@@ -119,6 +119,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "controle-financeiro-ui"
+    }
+  },
+  "defaultProject": "controle-financeiro-ui",
+  "cli": {
+    "analytics": "51ef97ae-7546-43c3-9698-43e6bdfafd90"
+  }
 }
