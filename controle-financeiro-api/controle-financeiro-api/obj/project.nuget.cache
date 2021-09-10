@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "jRkZOiGiiqj7ajpzhLqD865zfj1MUpdo4V/C+4Mg1r7bH9Xco3tJuGP5L5CAMXbgXVkSGF0d4x/vryW7jUJa6g==",
+  "dgSpecHash": "XiGBMVTtxBClX8376YlevTFiqOQ8QHGGDV27XcLfbxIl0H7FzchE+GooXE3tC8WvDheZako3HcqOrAodRDO4yA==",
   "success": true,
   "projectFilePath": "C:\\Users\\rodrigo.siqueira\\Documents\\workspace-aspnwet\\ControleFinanceiro\\controle-financeiro-api\\controle-financeiro-api\\controle-financeiro-api.csproj",
   "expectedPackageFiles": [
@@ -19,6 +19,7 @@
     "C:\\Users\\rodrigo.siqueira\\.nuget\\packages\\microsoft.aspnetcore.http.extensions\\2.2.0\\microsoft.aspnetcore.http.extensions.2.2.0.nupkg.sha512",
     "C:\\Users\\rodrigo.siqueira\\.nuget\\packages\\microsoft.aspnetcore.http.features\\2.2.0\\microsoft.aspnetcore.http.features.2.2.0.nupkg.sha512",
     "C:\\Users\\rodrigo.siqueira\\.nuget\\packages\\microsoft.aspnetcore.identity\\2.2.0\\microsoft.aspnetcore.identity.2.2.0.nupkg.sha512",
+    "C:\\Users\\rodrigo.siqueira\\.nuget\\packages\\microsoft.aspnetcore.identity.entityframeworkcore\\3.1.7\\microsoft.aspnetcore.identity.entityframeworkcore.3.1.7.nupkg.sha512",
     "C:\\Users\\rodrigo.siqueira\\.nuget\\packages\\microsoft.aspnetcore.jsonpatch\\3.1.7\\microsoft.aspnetcore.jsonpatch.3.1.7.nupkg.sha512",
     "C:\\Users\\rodrigo.siqueira\\.nuget\\packages\\microsoft.aspnetcore.mvc.newtonsoftjson\\3.1.7\\microsoft.aspnetcore.mvc.newtonsoftjson.3.1.7.nupkg.sha512",
     "C:\\Users\\rodrigo.siqueira\\.nuget\\packages\\microsoft.aspnetcore.nodeservices\\3.1.7\\microsoft.aspnetcore.nodeservices.3.1.7.nupkg.sha512",
@@ -32,6 +33,7 @@
     "C:\\Users\\rodrigo.siqueira\\.nuget\\packages\\microsoft.entityframeworkcore\\3.1.7\\microsoft.entityframeworkcore.3.1.7.nupkg.sha512",
     "C:\\Users\\rodrigo.siqueira\\.nuget\\packages\\microsoft.entityframeworkcore.abstractions\\3.1.7\\microsoft.entityframeworkcore.abstractions.3.1.7.nupkg.sha512",
     "C:\\Users\\rodrigo.siqueira\\.nuget\\packages\\microsoft.entityframeworkcore.analyzers\\3.1.7\\microsoft.entityframeworkcore.analyzers.3.1.7.nupkg.sha512",
+    "C:\\Users\\rodrigo.siqueira\\.nuget\\packages\\microsoft.entityframeworkcore.design\\3.1.7\\microsoft.entityframeworkcore.design.3.1.7.nupkg.sha512",
     "C:\\Users\\rodrigo.siqueira\\.nuget\\packages\\microsoft.entityframeworkcore.relational\\3.1.7\\microsoft.entityframeworkcore.relational.3.1.7.nupkg.sha512",
     "C:\\Users\\rodrigo.siqueira\\.nuget\\packages\\microsoft.entityframeworkcore.sqlserver\\3.1.7\\microsoft.entityframeworkcore.sqlserver.3.1.7.nupkg.sha512",
     "C:\\Users\\rodrigo.siqueira\\.nuget\\packages\\microsoft.extensions.caching.abstractions\\3.1.7\\microsoft.extensions.caching.abstractions.3.1.7.nupkg.sha512",

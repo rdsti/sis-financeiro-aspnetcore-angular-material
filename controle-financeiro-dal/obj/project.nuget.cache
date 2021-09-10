@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "Vebr/8PZsVbcE6mOS+0/chd3Xmd+0ctvT5jsKdvFSIUT+i8JWcDPkY3istbngTYGRDc/497n9zrzxhFGa3CG2Q==",
+  "dgSpecHash": "RNwTXuxcwNDxMO9OIeXxe04ZLg7tT051PKuNfi2+QaYVQXsco2Wivtnt3jS5/F18hisUrxV29NdyXAwxo5YZag==",
   "success": true,
   "projectFilePath": "C:\\Users\\rodrigo.siqueira\\Documents\\workspace-aspnwet\\ControleFinanceiro\\controle-financeiro-dal\\controle-financeiro-dal.csproj",
   "expectedPackageFiles": [
@@ -19,6 +19,7 @@
     "C:\\Users\\rodrigo.siqueira\\.nuget\\packages\\microsoft.aspnetcore.http.extensions\\2.2.0\\microsoft.aspnetcore.http.extensions.2.2.0.nupkg.sha512",
     "C:\\Users\\rodrigo.siqueira\\.nuget\\packages\\microsoft.aspnetcore.http.features\\2.2.0\\microsoft.aspnetcore.http.features.2.2.0.nupkg.sha512",
     "C:\\Users\\rodrigo.siqueira\\.nuget\\packages\\microsoft.aspnetcore.identity\\2.2.0\\microsoft.aspnetcore.identity.2.2.0.nupkg.sha512",
+    "C:\\Users\\rodrigo.siqueira\\.nuget\\packages\\microsoft.aspnetcore.identity.entityframeworkcore\\3.1.7\\microsoft.aspnetcore.identity.entityframeworkcore.3.1.7.nupkg.sha512",
     "C:\\Users\\rodrigo.siqueira\\.nuget\\packages\\microsoft.aspnetcore.webutilities\\2.2.0\\microsoft.aspnetcore.webutilities.2.2.0.nupkg.sha512",
     "C:\\Users\\rodrigo.siqueira\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\1.1.1\\microsoft.bcl.asyncinterfaces.1.1.1.nupkg.sha512",
     "C:\\Users\\rodrigo.siqueira\\.nuget\\packages\\microsoft.bcl.hashcode\\1.1.0\\microsoft.bcl.hashcode.1.1.0.nupkg.sha512",

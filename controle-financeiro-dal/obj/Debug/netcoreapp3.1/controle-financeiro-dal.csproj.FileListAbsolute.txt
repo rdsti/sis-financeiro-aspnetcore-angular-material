@@ -1,0 +1,16 @@
+C:\Users\rodrigo.siqueira\Documents\workspace-aspnwet\ControleFinanceiro\controle-financeiro-dal\obj\Debug\netcoreapp3.1\controle-financeiro-dal.csproj.AssemblyReference.cache
+C:\Users\rodrigo.siqueira\Documents\workspace-aspnwet\ControleFinanceiro\controle-financeiro-dal\obj\Debug\netcoreapp3.1\controle-financeiro-dal.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rodrigo.siqueira\Documents\workspace-aspnwet\ControleFinanceiro\controle-financeiro-dal\obj\Debug\netcoreapp3.1\controle-financeiro-dal.AssemblyInfoInputs.cache
+C:\Users\rodrigo.siqueira\Documents\workspace-aspnwet\ControleFinanceiro\controle-financeiro-dal\obj\Debug\netcoreapp3.1\controle-financeiro-dal.AssemblyInfo.cs
+C:\Users\rodrigo.siqueira\Documents\workspace-aspnwet\ControleFinanceiro\controle-financeiro-dal\obj\Debug\netcoreapp3.1\controle-financeiro-dal.csproj.CoreCompileInputs.cache
+C:\Users\rodrigo.siqueira\Documents\workspace-aspnwet\ControleFinanceiro\controle-financeiro-dal\bin\Debug\netcoreapp3.1\controle-financeiro-dal.deps.json
+C:\Users\rodrigo.siqueira\Documents\workspace-aspnwet\ControleFinanceiro\controle-financeiro-dal\bin\Debug\netcoreapp3.1\controle-financeiro-dal.runtimeconfig.json
+C:\Users\rodrigo.siqueira\Documents\workspace-aspnwet\ControleFinanceiro\controle-financeiro-dal\bin\Debug\netcoreapp3.1\controle-financeiro-dal.runtimeconfig.dev.json
+C:\Users\rodrigo.siqueira\Documents\workspace-aspnwet\ControleFinanceiro\controle-financeiro-dal\bin\Debug\netcoreapp3.1\controle-financeiro-dal.dll
+C:\Users\rodrigo.siqueira\Documents\workspace-aspnwet\ControleFinanceiro\controle-financeiro-dal\bin\Debug\netcoreapp3.1\controle-financeiro-dal.pdb
+C:\Users\rodrigo.siqueira\Documents\workspace-aspnwet\ControleFinanceiro\controle-financeiro-dal\bin\Debug\netcoreapp3.1\controle-financeiro-bll.dll
+C:\Users\rodrigo.siqueira\Documents\workspace-aspnwet\ControleFinanceiro\controle-financeiro-dal\bin\Debug\netcoreapp3.1\controle-financeiro-bll.pdb
+C:\Users\rodrigo.siqueira\Documents\workspace-aspnwet\ControleFinanceiro\controle-financeiro-dal\obj\Debug\netcoreapp3.1\controle-financeiro-dal.csproj.CopyComplete
+C:\Users\rodrigo.siqueira\Documents\workspace-aspnwet\ControleFinanceiro\controle-financeiro-dal\obj\Debug\netcoreapp3.1\controle-financeiro-dal.dll
+C:\Users\rodrigo.siqueira\Documents\workspace-aspnwet\ControleFinanceiro\controle-financeiro-dal\obj\Debug\netcoreapp3.1\controle-financeiro-dal.pdb
+C:\Users\rodrigo.siqueira\Documents\workspace-aspnwet\ControleFinanceiro\controle-financeiro-dal\obj\Debug\netcoreapp3.1\controle-financeiro-dal.genruntimeconfig.cache

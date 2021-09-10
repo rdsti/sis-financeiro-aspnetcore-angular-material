@@ -5,7 +5,7 @@ using System.Text;
 
 namespace controle_financeiro_bll.Models
 {
-    public class Usuario : IdentityRole<string>
+    public class Usuario : IdentityUser<string>
     {
         public string CPF { get; set; }
 

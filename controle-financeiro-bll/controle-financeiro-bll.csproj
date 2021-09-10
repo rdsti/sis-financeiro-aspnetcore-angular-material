@@ -5,4 +5,9 @@
     <RootNamespace>controle_financeiro_bll</RootNamespace>
   </PropertyGroup>
 
+  <ItemGroup>
+    <PackageReference Include="Microsoft.AspNetCore.Identity" Version="2.2.0" />
+    <PackageReference Include="Microsoft.Extensions.Identity.Stores" Version="3.1.7" />
+  </ItemGroup>
+
 </Project>

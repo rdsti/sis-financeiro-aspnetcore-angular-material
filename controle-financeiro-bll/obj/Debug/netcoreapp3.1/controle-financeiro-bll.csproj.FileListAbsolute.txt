@@ -1,0 +1,10 @@
+C:\Users\rodrigo.siqueira\Documents\workspace-aspnwet\ControleFinanceiro\controle-financeiro-bll\bin\Debug\netcoreapp3.1\controle-financeiro-bll.deps.json
+C:\Users\rodrigo.siqueira\Documents\workspace-aspnwet\ControleFinanceiro\controle-financeiro-bll\bin\Debug\netcoreapp3.1\controle-financeiro-bll.dll
+C:\Users\rodrigo.siqueira\Documents\workspace-aspnwet\ControleFinanceiro\controle-financeiro-bll\bin\Debug\netcoreapp3.1\controle-financeiro-bll.pdb
+C:\Users\rodrigo.siqueira\Documents\workspace-aspnwet\ControleFinanceiro\controle-financeiro-bll\obj\Debug\netcoreapp3.1\controle-financeiro-bll.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rodrigo.siqueira\Documents\workspace-aspnwet\ControleFinanceiro\controle-financeiro-bll\obj\Debug\netcoreapp3.1\controle-financeiro-bll.AssemblyInfoInputs.cache
+C:\Users\rodrigo.siqueira\Documents\workspace-aspnwet\ControleFinanceiro\controle-financeiro-bll\obj\Debug\netcoreapp3.1\controle-financeiro-bll.AssemblyInfo.cs
+C:\Users\rodrigo.siqueira\Documents\workspace-aspnwet\ControleFinanceiro\controle-financeiro-bll\obj\Debug\netcoreapp3.1\controle-financeiro-bll.csproj.CoreCompileInputs.cache
+C:\Users\rodrigo.siqueira\Documents\workspace-aspnwet\ControleFinanceiro\controle-financeiro-bll\obj\Debug\netcoreapp3.1\controle-financeiro-bll.dll
+C:\Users\rodrigo.siqueira\Documents\workspace-aspnwet\ControleFinanceiro\controle-financeiro-bll\obj\Debug\netcoreapp3.1\controle-financeiro-bll.pdb
+C:\Users\rodrigo.siqueira\Documents\workspace-aspnwet\ControleFinanceiro\controle-financeiro-bll\obj\Debug\netcoreapp3.1\controle-financeiro-bll.csproj.AssemblyReference.cache
