@@ -23,7 +23,7 @@ namespace controle_financeiro_api.Controllers
         [HttpGet]
         public async Task<ActionResult<IEnumerable<Categoria>>> GetCategorias()
         {
-            return await _context.Categorias.ToListAsync();
+            return await _context.Categorias.Include(c => c.Tipo).ToListAsync();
         }
 
         [HttpGet("{id}")]
