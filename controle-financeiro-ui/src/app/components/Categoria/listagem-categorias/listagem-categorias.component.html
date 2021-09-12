@@ -6,7 +6,7 @@
                 <h2 class="titulo">Categorias cadastradas</h2>
             </mat-grid-tile>
             <mat-grid-tile>
-                <button mat-stroked-button color = "primary" routerLink="/categorias/novaCategorias">Nova categoria</button>
+                <button mat-stroked-button color = "primary" routerLink="/categorias/novaCategoria">Nova categoria</button>
             </mat-grid-tile>
         </mat-grid-list>
     </div>
@@ -27,7 +27,7 @@
         <ng-container matColumnDef="acoes">
             <th mat-header-cell *matHeaderCellDef>Ações</th>
             <th mat-cell *matCellDef="let categoria">
-                <button mat-mini-fab color="primary"><mat-icon>edit</mat-icon></button>
+                <button mat-mini-fab color="primary" [routerLikk]="['/categorias/atualizarCategoria', categoria.categoriaId]"><mat-icon>edit</mat-icon></button>
                 <button mat-mini-fab color="warn"><mat-icon>delete_forever</mat-icon></button>
             </th>
         </ng-container>

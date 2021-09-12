@@ -10,7 +10,11 @@ const routes: Routes = [
   },
 
   {
-    path : 'categorias/novaCategorias', component: NovaCategoriaComponent
+    path : 'categorias/novaCategoria', component: NovaCategoriaComponent
+  },
+
+  {
+    path : 'categorias/atualizarCategoria', component: NovaCategoriaComponent
   }
 
 ];
