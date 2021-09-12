@@ -5,7 +5,7 @@ import { Categoria } from '../models/categoria';
 
 const httpOptions = {
   headers: new HttpHeaders ({
-    'Content-type' : 'application/josn'
+    'Content-Type': 'application/json'
   })
 }
 
