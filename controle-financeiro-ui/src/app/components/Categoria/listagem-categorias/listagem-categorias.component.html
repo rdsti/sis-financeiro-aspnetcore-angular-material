@@ -27,7 +27,7 @@
         <ng-container matColumnDef="acoes">
             <th mat-header-cell *matHeaderCellDef>Ações</th>
             <th mat-cell *matCellDef="let categoria">
-                <button mat-mini-fab color="primary" [routerLikk]="['/categorias/atualizarCategoria', categoria.categoriaId]"><mat-icon>edit</mat-icon></button>
+                <button mat-mini-fab color="primary" [routerLink]="['/categorias/atualizarCategoria', categoria.categoriaId]"><mat-icon>edit</mat-icon></button>
                 <button mat-mini-fab color="warn"><mat-icon>delete_forever</mat-icon></button>
             </th>
         </ng-container>
