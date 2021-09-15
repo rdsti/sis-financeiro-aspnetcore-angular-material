@@ -8,7 +8,7 @@ import { Router } from '@angular/router';
 @Component({
   selector: 'app-nova-categoria',
   templateUrl: './nova-categoria.component.html',
-  styleUrls: ['./nova-categoria.component.css']
+  styleUrls: ['../listagem-categorias/listagem-categorias.component.css']
 })
 export class NovaCategoriaComponent implements OnInit {
 

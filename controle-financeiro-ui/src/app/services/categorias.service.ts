@@ -23,8 +23,8 @@ export class CategoriasService {
   }
 
   PegarCategoriaPeloId(categoriaId: number) : Observable<Categoria>{
-    const apiUrl = `S(this.url)/${categoriaId}`;
-  
+    const apiUrl = `${this.url}/${categoriaId}`;
+
     return this.http.get<Categoria>(apiUrl);
   }
 
@@ -34,13 +34,13 @@ export class CategoriasService {
   }
 
   AtualizarCategoria(categoriaId: number, categoria: Categoria) : Observable<any>{
-    const apiUrl = `S(this.url)/${categoriaId}`;
-
+    const apiUrl = `${this.url}/${categoriaId}`;
+    
     return this.http.put<Categoria>(apiUrl, categoria, httpOptions);
   }
 
   ExcluirCategoria(categoriaId: number) : Observable<any>{
-    const apiUrl = `S(this.url)/${categoriaId}`;
+    const apiUrl = `${this.url}/${categoriaId}`;
 
     return this.http.delete<number>(apiUrl, httpOptions);
   }

@@ -51,6 +51,17 @@ export class AtualizarCategoriaComponent implements OnInit {
       return this.formulario.controls;
   }
 
+  EnviarFormulario() : void {
+    const categoria = this.formulario.value;
+
+    this.categoriasService
+      .AtualizarCategoria(this.categoriaId, categoria)
+      .subscribe(
+        (resultado) => {
+          this.router.navigate(['categorias/listagemCategorias']);
+        });
+  }
+
   voltarListagem() : void {
     this.router.navigate(['categorias/listagemCategorias']);
   }
