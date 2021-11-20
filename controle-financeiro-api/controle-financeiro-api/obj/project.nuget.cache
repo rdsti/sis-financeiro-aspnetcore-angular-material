@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "eSv47Rq7merXI2xZ1SG1WfIJV31T8RI+6sc4woqSLHgBUyxJLBIzBLynqdisElsUmWR+gV3E4bWUH9Elue6Lvg==",
+  "dgSpecHash": "uQ+oVYh7BjebVRy+pO+s8eHNvHvgJhN9RuLBguKoqNZFrE40Fwn46u4oUA9CxuuKoRjK8vlBQBdg6Gi6V4nIew==",
   "success": true,
   "projectFilePath": "C:\\Users\\rodrigo.siqueira\\Documents\\workspace-aspnwet\\ControleFinanceiro\\controle-financeiro-api\\controle-financeiro-api\\controle-financeiro-api.csproj",
   "expectedPackageFiles": [
@@ -137,7 +137,8 @@
     "C:\\Users\\rodrigo.siqueira\\.nuget\\packages\\system.xml.readerwriter\\4.3.0\\system.xml.readerwriter.4.3.0.nupkg.sha512",
     "C:\\Users\\rodrigo.siqueira\\.nuget\\packages\\system.xml.xdocument\\4.3.0\\system.xml.xdocument.4.3.0.nupkg.sha512",
     "C:\\Users\\rodrigo.siqueira\\.nuget\\packages\\system.xml.xmldocument\\4.3.0\\system.xml.xmldocument.4.3.0.nupkg.sha512",
-    "C:\\Users\\rodrigo.siqueira\\.nuget\\packages\\system.xml.xmlserializer\\4.3.0\\system.xml.xmlserializer.4.3.0.nupkg.sha512"
+    "C:\\Users\\rodrigo.siqueira\\.nuget\\packages\\system.xml.xmlserializer\\4.3.0\\system.xml.xmlserializer.4.3.0.nupkg.sha512",
+    "C:\\Users\\rodrigo.siqueira\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.19\\microsoft.netcore.app.host.win-x64.3.1.19.nupkg.sha512"
   ],
   "logs": []
 }
